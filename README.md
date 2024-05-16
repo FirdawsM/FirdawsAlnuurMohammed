@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @FirdawsAlnuurMohammed
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me :firdawsalnuur20@gmail.com
 
 <!---
